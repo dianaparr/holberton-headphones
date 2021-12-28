@@ -21,3 +21,8 @@ Here the final result:
 <p align="center">
     <img src="img/01_headphones_tablet@2x.png" alt="tablet" width="25%" />
 </p>
+
+## Tasks
+**:bulb: [0. Read and be familiar with Figma](README.md)**
+
+![figma](img/figma.png)
