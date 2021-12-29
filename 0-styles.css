@@ -446,6 +446,60 @@ a:hover, a:active {
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
 }
 
+/* Media query: Tablet
+    ============================= */
+
+@media screen and (max-width: 768px) and (max-height: 800px) {
+	html {
+		font-size: 60%;
+	}
+
+	.header {
+		background-position: 56%;
+        background-position-y: -10px;
+        height: auto;
+	}
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2rem 5rem 2rem;
+    }
+
+    .container {
+        position: relative;
+    }
+
+    .hero-section {
+        padding-top: 300px;
+        padding-bottom: 400px;
+        margin: 0 auto;
+    }
+
+    .nav {
+        list-style: none;
+        text-align: center;
+        display: flex;
+        font-size: var(--font-size-xsmall);
+        line-height: var(--line-height-xsmall);
+        font-weight: var(--font-weight-bold);
+        font-style: var(--font-style-normal);
+    }
+
+    .nav .nav-item + .nav-item {
+        margin: 0 1px 0 41px;
+    }
+
+    .nav .nav-item:last-child {
+        margin-right: 50px;
+    }
+}
+
+
+/* Media query: Mobile
+    ============================= */
+
 @media screen and (max-width: 375px) and (max-height: 869px) {
     html {
         font-size: 57%;
