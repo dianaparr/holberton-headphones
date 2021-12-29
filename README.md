@@ -39,4 +39,26 @@ Here the final result:
 
 <br />
 
-**:bulb: [1. Header](README.md)**
+**:bulb: [1. Header](0-index.html)**
+
+Building a web page the right way, is not easy - expect if you put in place strong foundations:
+
+- reset CSS styling
+
+- use variables
+
+- simple/“as generic as you can” CSS selectors
+
+- avoid using super specific CSS selectors as much as possible
+
+- simple HTML structure - div containers are your friend!
+
+For this first task: **create the header/hero piece**
+
+**Desktop:**
+
+![desktop-gif](img/desktop.gif)
+
+**Mobile:**
+
+![mobile-gif](img/mobile.gif)
