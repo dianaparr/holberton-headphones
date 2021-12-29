@@ -454,7 +454,6 @@ a:hover, a:active {
     .header {
         background-image: url(images/headphones_hero_1.jpg);
         background-position: 45%;
-        background-position-y: -40px;
         height: auto;
     }
 
@@ -495,9 +494,9 @@ a:hover, a:active {
     }
 
     .hero-section {
-        padding-top: 150px;
-        max-width: 637px;
-        max-height: 850px;
+        padding-top: 110px;
+        max-width: 480px;
+        max-height: 560px;
         text-align: center;
         margin: 0 auto;
     }
