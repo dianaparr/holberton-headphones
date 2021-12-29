@@ -62,3 +62,4 @@ For this first task: **create the header/hero piece**
 **Mobile:**
 
 ![mobile-gif](img/mobile.gif)
+
