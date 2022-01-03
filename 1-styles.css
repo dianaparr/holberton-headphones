@@ -474,6 +474,10 @@ a:hover, a:active {
     line-height: 37px;
 }
 
+.element {
+    text-align: center;
+}
+
 .element h3 {
     font-size: 18px;
     line-height: var(--line-height-base);
@@ -501,12 +505,7 @@ a:hover, a:active {
     align-content: center;
     padding-top: 96px;
     padding-bottom: 96px;
-    column-gap: 40px;
-}
-
-.body-section .element .icon {
-    margin-left: 70px;
-    margin-right: 50px;
+    column-gap: 114px;
 }
 
 
@@ -561,6 +560,14 @@ a:hover, a:active {
 
     .header-section {
         margin: 30px 70px 0;
+    }
+
+    .body-section {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        column-gap: 138px;
+        row-gap: 75px;
     }
 }
 
@@ -653,11 +660,6 @@ a:hover, a:active {
         flex-wrap: wrap;
         align-content: center;
         gap: 80px;
-    }
-
-    .body-section .element .icon {
-        margin-left: 150px;
-        margin-right: 100px;
     }
 
     .element p {
