@@ -514,6 +514,7 @@ a:hover, a:active {
     ============================= */
 .results-section {
     background-image: url(../images/headphones_hero_2.jpg);
+    background-color: #071629;
     background-repeat: no-repeat;
     background-position: center;
     max-width: 100%;

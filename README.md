@@ -63,8 +63,16 @@ For this first task: **create the header/hero piece**
 
 ![mobile-gif](img/mobile.gif)
 
+<br />
+
 **:bulb: [2. "What we do..." section](1-index.html)**
 
 In this section, you will need custom font icons. Here the archive of it: [holberton_school-icon](holberton_school-icon)
 
 ![example_tablet](img/example1.png)
+
+<br />
+
+**:bulb: [3. "Our results" section](2-index.html)**
+
+![example_desktop](img/example2.png)
