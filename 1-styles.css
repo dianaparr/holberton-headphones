@@ -509,12 +509,6 @@ a:hover, a:active {
     margin-right: 50px;
 }
 
-/* .body-section .element h3,
-.body-section .element p {
-    margin-left: 10px;
-} */
-
-
 
 /* Media query: Tablet
     ============================= */
@@ -651,5 +645,23 @@ a:hover, a:active {
 
     .header-section {
         margin: 30px 20px 0;
+    }
+
+    .body-section {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+        gap: 80px;
+    }
+
+    .body-section .element .icon {
+        margin-left: 150px;
+        margin-right: 100px;
+    }
+
+    .element p {
+        margin: 0 70px 0 70px;
+        text-align: center;
     }
 }
