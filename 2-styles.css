@@ -734,7 +734,20 @@ a:hover, a:active {
     }
 
     .element p {
-        margin: 0 70px 0 70px;
+        margin: 0;
         text-align: center;
+    }
+
+    .results-section {
+        background-size: cover;
+        background-position-y: -95px;
+        background-color: #071629;
+    }
+
+    .results-section img {
+        height: 165px;
+    }
+    .results-section .body-section p {
+        margin: 0 auto;
     }
 }

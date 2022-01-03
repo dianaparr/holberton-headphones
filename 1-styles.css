@@ -665,7 +665,7 @@ a:hover, a:active {
     }
 
     .element p {
-        margin: 0 70px 0 70px;
+        margin: 0;
         text-align: center;
     }
 }
