@@ -334,7 +334,7 @@ a:hover, a:active {
     background-repeat: no-repeat;
     background-position: center;
     max-width: 100%;
-    height: 100vh;
+    height: 130vh;
 }
 
 .header-container {
@@ -416,7 +416,7 @@ a:hover, a:active {
     ============================= */
 
 .hero-section {
-    padding-top: 190px;
+    padding-top: 260px;
     max-width: 637px;
     max-height: 313px;
     text-align: center;
@@ -460,15 +460,33 @@ a:hover, a:active {
     margin-bottom: 110px;
     max-width: 1002px;
     height: auto;
+    margin: 30px 175px 0;
+    font-size: var(--font-size-medium);
+    font-weight: var(--font-weight-normal);
+    line-height: var(--line-height-base);
+}
+
+.header-section h2 {
+    margin-top: -30px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    font-size: var(--font-size-large);
+    line-height: 37px;
 }
 
 .element h3 {
     font-size: 18px;
 }
 
-.element p {
-    font-size: 14px;
-    line-height: 26px;
+.icon {
+    font-size: 6em;
+    color: var(--color-primary);
+}
+
+.body-section {
+    display: flex;
+    justify-content: center;
+    padding: 90px;
 }
 
 
@@ -520,6 +538,10 @@ a:hover, a:active {
 
     .nav .nav-item:last-child {
         margin-right: 50px;
+    }
+
+    .header-section {
+        margin: 30px 70px 0;
     }
 }
 
@@ -600,5 +622,9 @@ a:hover, a:active {
         padding-left: 10px;
         padding-right: 16px;
         bottom: 0;
+    }
+
+    .header-section {
+        margin: 30px 20px 0;
     }
 }
