@@ -519,7 +519,7 @@ a:hover, a:active {
     max-width: 100%;
     height: auto;
     margin-top: 0;
-    padding-top: 110px;
+    padding-top: 70px;
 }
 
 .results-section .header-section {
@@ -633,6 +633,12 @@ a:hover, a:active {
         margin: 30px 70px 0;
     }
 
+    .header-section h2 {
+        margin-top: -35px;
+        padding-top: 125px;
+        padding-bottom: 15px;
+    }
+
     .body-section {
         display: flex;
         flex-wrap: wrap;
@@ -640,6 +646,18 @@ a:hover, a:active {
         column-gap: 138px;
         row-gap: 75px;
     }
+
+    .results-section {
+        background-color: #071629;
+        background-position: 45%;
+        background-position-y: -70px;
+        background-size: cover;
+    }
+
+    .results-section img {
+        height: 150px;
+    }
+
 }
 
 
@@ -740,7 +758,8 @@ a:hover, a:active {
 
     .results-section {
         background-size: cover;
-        background-position-y: -95px;
+        background-position: 50%;
+        background-position-y: -270px;
         background-color: #071629;
     }
 
