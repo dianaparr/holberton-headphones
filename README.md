@@ -96,3 +96,15 @@ In this section, you will need custom font icons. Here the archive of it: [holbe
 **Mobile:**
 
 ![example_mobile](img/example4-mobile.png)
+
+<br />
+
+## Design by:
+
+**:woman: Diana Parra**
+
+:green_book: [GitHub](https://github.com/dianaparr/)
+
+:bird: [Twitter](https://twitter.com/dianaparra017)
+
+:wave: [LinkedIn](https://www.linkedin.com/in/dev-diana-parra/)
