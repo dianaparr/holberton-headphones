@@ -919,4 +919,34 @@ input[type="text"], input[type="email"] {
         padding: 0;
         height: 45vh;
     }
+
+    .footer {
+        padding-top: 40px;
+        height: 249px;
+    }
+
+    .footer .container {
+        flex-direction: column;
+        justify-content: center;
+        height: auto;
+    }
+
+    .logo-footer,
+    .social-links,
+    .mark {
+        align-self: center;
+    }
+
+    .social-links {
+        flex-direction: row;
+        margin: 30px 46px 30px 15px;
+        padding-bottom: 10px;
+        padding-top: 0;
+        align-self: center;
+        text-align: center;
+    }
+
+    .mark {
+        order: 1;
+    }
 }
