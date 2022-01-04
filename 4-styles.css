@@ -789,6 +789,10 @@ input[type="text"], input[type="email"] {
     .form-1 {
         height: 55vh;
     }
+
+    .footer .container {
+        margin: 0 56px;
+    }
 }
 
 
