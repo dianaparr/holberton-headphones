@@ -861,4 +861,9 @@ input[type="text"], input[type="email"] {
     .results-section .body-section p {
         margin: 0 auto;
     }
+
+    .form-1 {
+        padding: 0;
+        height: 45vh;
+    }
 }
