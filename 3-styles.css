@@ -736,6 +736,9 @@ input[type="text"], input[type="email"] {
         height: 150px;
     }
 
+    .form-1 {
+        height: 55vh;
+    }
 }
 
 
