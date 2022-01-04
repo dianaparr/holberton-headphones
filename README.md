@@ -82,3 +82,17 @@ In this section, you will need custom font icons. Here the archive of it: [holbe
 **:bulb: [4. Contact us](3-index.html)**
 
 ![example_mobile](img/example3.png)
+
+<br />
+
+**:bulb: [5. Footer](4-index.html)**
+
+*Result:*
+
+**Desktop:**
+
+![example_desktop](img/example4-desktop.png)
+
+**Mobile:**
+
+![example_mobile](img/example4-mobile.png)
