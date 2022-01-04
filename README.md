@@ -76,3 +76,9 @@ In this section, you will need custom font icons. Here the archive of it: [holbe
 **:bulb: [3. "Our results" section](2-index.html)**
 
 ![example_desktop](img/example2.png)
+
+<br />
+
+**:bulb: [4. Contact us](3-index.html)**
+
+![example_mobile](img/example3.png)
